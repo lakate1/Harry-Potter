@@ -9,10 +9,11 @@ a {
     display: inline;
     padding: 14px 16px;
     text-decoration: none;
-    color: white;
-    background-color: blue;
+    color: #FFD700;
+    background-color: black;
+    font-size: 20px;
 }
  a:hover {
-    background-color: #111;
+    background-color: grey;
 }
 
