@@ -1,0 +1,27 @@
+body {
+    background-image: url("https://pm1.narvii.com/6392/1633ae0fa7d51189de7b9aed8d73b89467aabf1b_hq.jpg");
+
+}
+h1 {
+    color: #FFD700;
+    text-align: center;
+}
+li {
+    color: #FFD700;
+    text-align: center;
+    list-style-type: none;
+
+}
+p {
+    color: white;
+    text-align: justify;
+    text-indent: 50px;
+
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
